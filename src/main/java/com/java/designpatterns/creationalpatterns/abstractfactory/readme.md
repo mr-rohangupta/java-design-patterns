@@ -8,8 +8,10 @@ Both have their three concrete implementations.
 
 **BakersPizzaAbstractFactory is the common abstract factory implementation of Pizza and Bakery to get Bakery
 and Pizza objects.
+
 BakeryFactory and PizzaFactory are the factory classes that inherit BakersPizzaAbstractFactory to generate 
 the object of concrete classes.
+
 Finally BakeryPizzaFactoryCreator to get the factories by passing information such as Pizza or Bakery.**
 
 
