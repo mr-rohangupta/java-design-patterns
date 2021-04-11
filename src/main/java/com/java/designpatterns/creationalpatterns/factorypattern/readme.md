@@ -6,4 +6,4 @@ In short subclasses are responsible to create instance of the class.
 **_In the given example we have an abstract class HeadPhones which have three concrete implementations
 JBL,Sony and Boat._**
 
-We have a factory class HeadPhoneFactory to generate object of concrete classes like JBL,Sony and Boat
+**_We have a factory class HeadPhoneFactory to generate object of concrete classes like JBL,Sony and Boat._**
