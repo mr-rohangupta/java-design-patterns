@@ -1,10 +1,10 @@
-package com.java.designpatterns.creationalpatterns.abstractfactory.factories;
+package com.java.designpatterns.creationalpatterns.abstractfactorypattern.factories;
 
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.Bakery;
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.Pizza;
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.impl.AmazingBlazingBakers;
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.impl.FantasticBakers;
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.impl.SuperBakers;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Bakery;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Pizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl.AmazingBlazingBakers;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl.FantasticBakers;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl.SuperBakers;
 
 public class BakeryFactory extends BakersPizzaAbstractFactory {
     @Override

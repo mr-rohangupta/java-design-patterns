@@ -1,4 +1,4 @@
-package com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts;
+package com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts;
 
 public abstract class Pizza {
 

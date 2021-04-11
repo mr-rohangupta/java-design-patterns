@@ -1,6 +1,6 @@
-package com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.impl;
+package com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl;
 
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.Bakery;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Bakery;
 
 public class FantasticBakers implements Bakery {
 

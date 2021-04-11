@@ -1,4 +1,4 @@
-package com.java.designpatterns.creationalpatterns.abstractfactory.factories;
+package com.java.designpatterns.creationalpatterns.abstractfactorypattern.factories;
 
 public class BakeryPizzaFactoryCreator {
 

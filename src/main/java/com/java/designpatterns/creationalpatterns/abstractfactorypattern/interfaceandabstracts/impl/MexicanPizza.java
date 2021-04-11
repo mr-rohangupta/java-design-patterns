@@ -1,6 +1,6 @@
-package com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.impl;
+package com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl;
 
-import com.java.designpatterns.creationalpatterns.abstractfactory.interfaceandabstracts.Pizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Pizza;
 
 public class MexicanPizza extends Pizza {
 
