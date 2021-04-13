@@ -1,4 +1,4 @@
-package com.java.designpatterns.creationalpatterns.singleton;
+package com.java.designpatterns.creationalpatterns.singletonpattern;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
