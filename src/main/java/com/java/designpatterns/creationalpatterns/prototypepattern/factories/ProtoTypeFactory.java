@@ -1,9 +1,9 @@
 package com.java.designpatterns.creationalpatterns.prototypepattern.factories;
 
-import com.java.designpatterns.creationalpatterns.prototypepattern.interfaceandabstract.OperatingSystem;
-import com.java.designpatterns.creationalpatterns.prototypepattern.interfaceandabstract.impl.IOS;
-import com.java.designpatterns.creationalpatterns.prototypepattern.interfaceandabstract.impl.Ubuntu;
-import com.java.designpatterns.creationalpatterns.prototypepattern.interfaceandabstract.impl.Windows;
+import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.OperatingSystem;
+import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.impl.IOS;
+import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.impl.Ubuntu;
+import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.impl.Windows;
 
 import java.util.HashMap;
 import java.util.Map;

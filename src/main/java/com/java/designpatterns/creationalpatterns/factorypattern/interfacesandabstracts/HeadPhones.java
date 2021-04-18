@@ -1,4 +1,4 @@
-package com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract;
+package com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts;
 
 public abstract class HeadPhones {
 

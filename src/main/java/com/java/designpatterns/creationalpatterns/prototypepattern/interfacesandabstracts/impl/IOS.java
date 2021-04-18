@@ -1,6 +1,6 @@
-package com.java.designpatterns.creationalpatterns.prototypepattern.interfaceandabstract.impl;
+package com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.impl;
 
-import com.java.designpatterns.creationalpatterns.prototypepattern.interfaceandabstract.OperatingSystem;
+import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.OperatingSystem;
 
 public class IOS implements OperatingSystem {
 

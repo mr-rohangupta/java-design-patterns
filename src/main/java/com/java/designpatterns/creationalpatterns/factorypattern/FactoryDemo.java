@@ -1,7 +1,7 @@
 package com.java.designpatterns.creationalpatterns.factorypattern;
 
 import com.java.designpatterns.creationalpatterns.factorypattern.factories.HeadPhoneFactory;
-import com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.HeadPhones;
+import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.HeadPhones;
 
 import java.io.BufferedReader;
 import java.io.IOException;

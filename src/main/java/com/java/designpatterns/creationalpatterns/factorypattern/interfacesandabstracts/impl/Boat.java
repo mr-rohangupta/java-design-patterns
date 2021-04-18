@@ -1,6 +1,6 @@
-package com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.impl;
+package com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.impl;
 
-import com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.HeadPhones;
+import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.HeadPhones;
 
 public class Boat extends HeadPhones {
 

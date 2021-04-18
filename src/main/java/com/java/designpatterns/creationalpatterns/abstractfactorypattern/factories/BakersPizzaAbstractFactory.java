@@ -1,7 +1,7 @@
 package com.java.designpatterns.creationalpatterns.abstractfactorypattern.factories;
 
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Bakery;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Pizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Bakery;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Pizza;
 
 public abstract class BakersPizzaAbstractFactory {
 

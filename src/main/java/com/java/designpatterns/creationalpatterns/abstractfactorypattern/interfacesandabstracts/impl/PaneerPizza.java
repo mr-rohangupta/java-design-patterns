@@ -1,6 +1,6 @@
-package com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl;
+package com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.impl;
 
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Pizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Pizza;
 
 public class PaneerPizza extends Pizza {
     @Override

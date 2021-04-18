@@ -2,8 +2,8 @@ package com.java.designpatterns.creationalpatterns.abstractfactorypattern;
 
 import com.java.designpatterns.creationalpatterns.abstractfactorypattern.factories.BakersPizzaAbstractFactory;
 import com.java.designpatterns.creationalpatterns.abstractfactorypattern.factories.BakeryPizzaFactoryCreator;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Bakery;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Pizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Bakery;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

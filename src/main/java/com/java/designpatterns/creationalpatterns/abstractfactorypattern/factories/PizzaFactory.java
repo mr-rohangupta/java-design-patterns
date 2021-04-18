@@ -1,10 +1,10 @@
 package com.java.designpatterns.creationalpatterns.abstractfactorypattern.factories;
 
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Bakery;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.Pizza;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl.MargheritaPizza;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl.MexicanPizza;
-import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfaceandabstracts.impl.PaneerPizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Bakery;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Pizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.impl.MargheritaPizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.impl.MexicanPizza;
+import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.impl.PaneerPizza;
 
 public class PizzaFactory extends BakersPizzaAbstractFactory {
 

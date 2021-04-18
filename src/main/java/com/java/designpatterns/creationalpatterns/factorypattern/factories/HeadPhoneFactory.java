@@ -1,9 +1,9 @@
 package com.java.designpatterns.creationalpatterns.factorypattern.factories;
 
-import com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.HeadPhones;
-import com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.impl.Boat;
-import com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.impl.JBL;
-import com.java.designpatterns.creationalpatterns.factorypattern.interfaceandabstract.impl.Sony;
+import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.HeadPhones;
+import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.impl.Boat;
+import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.impl.JBL;
+import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.impl.Sony;
 
 public class HeadPhoneFactory {
 
