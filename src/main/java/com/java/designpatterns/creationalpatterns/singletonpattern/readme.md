@@ -6,6 +6,6 @@ static getInstance method which will return the same instance everytime.**
 
 **I implemented the class in such a way that it will prevent the class from breaking Singleton.**
 
-for Ex : **_i) readResolve and readObject method which will prevent from Serialization.
-         ii) overriding clone to prevent from cloning.
-         iii) Instance check at constructor to prevent it from Reflection._**
+for Ex : i)**_readResolve and readObject method which will prevent from Serialization._**
+         ii)**_overriding clone to prevent from cloning._**
+         iii)**_Instance check at constructor to prevent it from Reflection._**
