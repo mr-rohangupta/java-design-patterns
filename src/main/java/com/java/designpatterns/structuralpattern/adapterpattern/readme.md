@@ -2,6 +2,11 @@
 
 **Implementation Briefing**
 
+**_IPayable is an interface with pay method & we have PayBill class with has-a relationship with IPayable(IPayable is a data member
+of PayBill class)._**
+
+**_We have CryptoCurrency class with payInCrypto method and also CryptoToRupeeAdapter to convert crypto to rupee._**
+
 **_In our example we have a situation that in our Hotel class we want to Pay the bill, but it only accepts 
 Indian Currency, but the Customer is having only cryptocurrencies._**
 
