@@ -1,3 +1,5 @@
+**Bridge Pattern**
+
 **Bridge Pattern says that decouple the functional abstraction from the implementation so that two can vary independently.**
 
 **_In my example here we have IPaymentSystem interface with the method processPayment. IPaymentSystem has two concrete implementations

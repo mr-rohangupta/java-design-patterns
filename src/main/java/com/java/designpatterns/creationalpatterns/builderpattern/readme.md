@@ -1,3 +1,5 @@
+**Builder Pattern**
+
 **Builder pattern is an alternative way to construct complex objects.**
 
 **Builder Pattern also solves the issue with large number of optional parameters and inconsistent

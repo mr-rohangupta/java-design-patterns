@@ -1,3 +1,5 @@
+**Adapter Pattern**
+
 **Adapter pattern is about creating an object into another object which client expects.**
 
 **Implementation Briefing**

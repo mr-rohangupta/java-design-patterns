@@ -1,3 +1,5 @@
+**Singleton Pattern**
+
 **Singleton pattern restricts instantiation of a class ad ensures that only one instance of the class 
 exists in the java virtual machine**
 

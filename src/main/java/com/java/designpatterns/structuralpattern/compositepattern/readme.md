@@ -1,3 +1,5 @@
+**Composite Pattern**
+
 **Composite Pattern allow clients to operate in generic manner on objects that may or may not represent a hierarchy of objects.**
 
 **Composite pattern has four participants:**
