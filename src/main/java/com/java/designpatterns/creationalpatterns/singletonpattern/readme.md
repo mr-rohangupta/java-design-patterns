@@ -1,6 +1,6 @@
 **Singleton Pattern**
 
-**Singleton pattern restricts instantiation of a class ad ensures that only one instance of the class 
+**Singleton pattern restricts instantiation of a class and ensures that only one instance of the class 
 exists in the java virtual machine**
 
 **In this example I had created a Singleton class Database which have a private constructor,
