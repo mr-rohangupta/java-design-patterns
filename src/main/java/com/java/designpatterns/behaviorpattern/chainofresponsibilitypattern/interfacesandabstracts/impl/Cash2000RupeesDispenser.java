@@ -3,6 +3,12 @@ package com.java.designpatterns.behaviorpattern.chainofresponsibilitypattern.int
 import com.java.designpatterns.behaviorpattern.chainofresponsibilitypattern.interfacesandabstracts.ChainedCashDispenser;
 import com.java.designpatterns.behaviorpattern.chainofresponsibilitypattern.interfacesandabstracts.Currency;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class Cash2000RupeesDispenser implements ChainedCashDispenser {
 
     private ChainedCashDispenser chainedCashDispenser;
