@@ -2,8 +2,13 @@ package com.java.designpatterns.structuralpattern.decoratorpattern.concretecompo
 
 import com.java.designpatterns.structuralpattern.decoratorpattern.component.ICar;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public final class Nexa implements ICar {
-
 
     @Override
     public String name() {

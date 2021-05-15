@@ -2,6 +2,12 @@ package com.java.designpatterns.creationalpatterns.prototypepattern.interfacesan
 
 import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesandabstracts.OperatingSystem;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class Ubuntu implements OperatingSystem {
 
     @Override

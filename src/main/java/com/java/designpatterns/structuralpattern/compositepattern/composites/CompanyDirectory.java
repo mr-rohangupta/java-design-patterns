@@ -5,6 +5,12 @@ import com.java.designpatterns.structuralpattern.compositepattern.interfacesanda
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class CompanyDirectory implements Employee {
     private final List<Employee> employeeList = new ArrayList<Employee>();
 

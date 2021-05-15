@@ -5,6 +5,12 @@ import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandab
 import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.impl.JBL;
 import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.impl.Sony;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class HeadPhoneFactory {
 
     public HeadPhones getHeadPhones(String choice){

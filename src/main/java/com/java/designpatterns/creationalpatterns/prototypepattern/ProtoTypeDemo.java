@@ -2,6 +2,12 @@ package com.java.designpatterns.creationalpatterns.prototypepattern;
 
 import com.java.designpatterns.creationalpatterns.prototypepattern.factories.ProtoTypeFactory;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class ProtoTypeDemo {
 
     public static void main(String[] args) {

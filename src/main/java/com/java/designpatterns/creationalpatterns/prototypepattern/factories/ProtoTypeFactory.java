@@ -8,6 +8,12 @@ import com.java.designpatterns.creationalpatterns.prototypepattern.interfacesand
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class ProtoTypeFactory {
 
     private static final Map<String, OperatingSystem> prototypes = new HashMap<>();

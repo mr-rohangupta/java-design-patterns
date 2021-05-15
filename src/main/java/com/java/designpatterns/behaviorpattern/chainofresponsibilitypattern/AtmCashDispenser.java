@@ -6,14 +6,14 @@ import com.java.designpatterns.behaviorpattern.chainofresponsibilitypattern.inte
 import com.java.designpatterns.behaviorpattern.chainofresponsibilitypattern.interfacesandabstracts.impl.Cash2000RupeesDispenser;
 import com.java.designpatterns.behaviorpattern.chainofresponsibilitypattern.interfacesandabstracts.impl.Cash500RupeesDispenser;
 
+import java.util.Scanner;
+
 /**
  * Created by IntelliJ IDEA.
  * User: Rohan Gupta
  * Date: 15-05-2021
  * Time: 13:21
  */
-import java.util.Scanner;
-
 public class AtmCashDispenser {
 
     private final ChainedCashDispenser chainedCashDispenser2000;

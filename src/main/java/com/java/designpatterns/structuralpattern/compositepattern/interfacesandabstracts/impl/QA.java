@@ -2,6 +2,12 @@ package com.java.designpatterns.structuralpattern.compositepattern.interfacesand
 
 import com.java.designpatterns.structuralpattern.compositepattern.interfacesandabstracts.Employee;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class QA implements Employee {
     private String name;
     private long empId;

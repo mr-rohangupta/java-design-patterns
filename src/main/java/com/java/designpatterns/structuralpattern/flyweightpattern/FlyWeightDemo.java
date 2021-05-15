@@ -5,6 +5,12 @@ import com.java.designpatterns.structuralpattern.flyweightpattern.interfacesanda
 
 import java.awt.*;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class FlyWeightDemo {
 
     public static void main(String[] args) {

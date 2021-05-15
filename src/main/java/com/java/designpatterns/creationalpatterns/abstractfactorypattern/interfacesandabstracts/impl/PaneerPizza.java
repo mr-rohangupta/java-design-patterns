@@ -2,6 +2,12 @@ package com.java.designpatterns.creationalpatterns.abstractfactorypattern.interf
 
 import com.java.designpatterns.creationalpatterns.abstractfactorypattern.interfacesandabstracts.Pizza;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class PaneerPizza extends Pizza {
     @Override
     public String addContent(String content) {

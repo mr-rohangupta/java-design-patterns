@@ -8,6 +8,12 @@ import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class VehicleFactory {
 
     public static Map<Color, Vehicle> vehiclesCache = new HashMap<>();

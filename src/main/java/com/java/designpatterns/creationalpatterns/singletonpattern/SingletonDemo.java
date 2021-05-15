@@ -3,6 +3,12 @@ package com.java.designpatterns.creationalpatterns.singletonpattern;
 import java.io.*;
 import java.lang.reflect.Constructor;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class SingletonDemo {
     public static void main(String[] args) throws InstantiationException, IOException, ClassNotFoundException, CloneNotSupportedException {
         Database instance = Database.getInstance();

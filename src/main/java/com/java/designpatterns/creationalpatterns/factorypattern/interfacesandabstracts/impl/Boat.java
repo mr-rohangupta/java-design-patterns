@@ -2,6 +2,12 @@ package com.java.designpatterns.creationalpatterns.factorypattern.interfacesanda
 
 import com.java.designpatterns.creationalpatterns.factorypattern.interfacesandabstracts.HeadPhones;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class Boat extends HeadPhones {
 
     public String headPhoneType;

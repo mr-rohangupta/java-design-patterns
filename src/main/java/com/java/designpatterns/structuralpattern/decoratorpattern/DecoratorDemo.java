@@ -6,6 +6,12 @@ import com.java.designpatterns.structuralpattern.decoratorpattern.concretecompon
 import com.java.designpatterns.structuralpattern.decoratorpattern.concretedecorator.OfferedPrice;
 import com.java.designpatterns.structuralpattern.decoratorpattern.decorator.CarDecorator;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class DecoratorDemo {
 
     public static void main(String[] args) {

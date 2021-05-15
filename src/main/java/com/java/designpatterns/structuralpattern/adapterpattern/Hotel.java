@@ -4,6 +4,12 @@ import com.java.designpatterns.structuralpattern.adapterpattern.adapter.CryptoTo
 import com.java.designpatterns.structuralpattern.adapterpattern.interfacesandabstracts.IPayable;
 import com.java.designpatterns.structuralpattern.adapterpattern.interfacesandabstracts.PayBill;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class Hotel {
     public static void main(String[] args) {
         //TODO This wont work here so we need adapter which convert the crypto to rupee

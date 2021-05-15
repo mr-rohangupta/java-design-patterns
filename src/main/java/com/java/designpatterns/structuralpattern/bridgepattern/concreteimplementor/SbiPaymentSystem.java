@@ -2,6 +2,12 @@ package com.java.designpatterns.structuralpattern.bridgepattern.concreteimplemen
 
 import com.java.designpatterns.structuralpattern.bridgepattern.implementor.IPaymentSystem;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class SbiPaymentSystem implements IPaymentSystem {
 
     @Override

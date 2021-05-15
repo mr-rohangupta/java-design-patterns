@@ -4,6 +4,12 @@ import com.java.designpatterns.structuralpattern.compositepattern.composites.Com
 import com.java.designpatterns.structuralpattern.compositepattern.interfacesandabstracts.impl.Developer;
 import com.java.designpatterns.structuralpattern.compositepattern.interfacesandabstracts.impl.QA;
 
+/**
+ * Created by IntelliJ IDEA.
+ * User: Rohan Gupta
+ * Date: 15-05-2021
+ * Time: 13:21
+ */
 public class CompositeDemo {
 
     public static void main(String[] args) {
