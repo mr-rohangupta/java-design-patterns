@@ -14,7 +14,7 @@
    and four Non-terminal(AdditionExpression,DivisionExpression,MultiplicationExpression and SubtractionExpression) concrete implementations.**_ 
 
 **_ii) ExpressionParser is the class which is responsible for parsing the expression, 
-    verifying the expression like whether it's an operator or operande, maintaining the stack and performing calculation._**
+    verifying the expression like whether it's an operator or operand, maintaining the stack and performing calculation._**
 
 **_iii) ParserUtil as the name suggests it's a utility class. It has two methods first is to verify that the given 
      symbol is operator or not and second is based on the symbol it gives the expression object. (+ will give AdditionExpression)._**
